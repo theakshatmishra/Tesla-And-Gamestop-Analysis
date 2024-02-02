@@ -1,1 +1,1 @@
-# theakshatmishra-Tesla-And-Gamestop-Analysis
+# Tesla-And-Gamestop-Analysis
